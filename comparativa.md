@@ -59,5 +59,38 @@ Esto es importante porque la rúbrica dice específicamente que si confundes lib
 **Fuente oficial:** ...
 **Fecha de consulta:** 24/09/2026
 ## 4. Fe de erratas
+### Error 1
 
+**Lo que dice el tema:**
+...
+
+**Lo correcto actualmente:**
+...
+
+**Fuente:**
+...
+
+**Fecha de consulta:**
+24/09/2026
+
+### Error 2
+
+**Lo que dice el tema:**
+...
+
+**Lo correcto actualmente:**
+...
+
+**Fuente:**
+...
+
+**Fecha de consulta:**
+24/09/2026
 ## 5. Matriz de decisión y recomendación
+Criterio;Peso;Solución 1;Solución 2;Solución 3
+Coste total;20;4;4;3
+Funcionalidades necesarias;20;4;5;5
+Facilidad de uso;15;5;4;3
+Escalabilidad;15;4;5;5
+Soporte y mantenimiento;15;4;4;5
+Integración con otros sistemas;15;4;4;5
